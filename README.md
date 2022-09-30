@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inin-zou
+- 👋 Hi, I’m Yongkang Zou.
 - 👀 I’m interested in big data and machine learning.
 - 🌱 I’m currently learning the information system.
 
